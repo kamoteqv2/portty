@@ -121,3 +121,6 @@ and pressing keys
 - pin 2 is reserved for DHT signal pin
 - pin 3 optional, can be use to connect to a LED as power and activity indicator
 - and pin 4 to 19 are available for toggling or switching 
+
+
+Credit: This application was developed by KMQ Tech TV (https://www.youtube.com/@kamoteqv2), a Youtube channel dedicated to teaching and improving DIY technology.
