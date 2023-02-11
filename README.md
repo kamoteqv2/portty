@@ -65,7 +65,7 @@ Press Enter key to continue...
 ```
 
 
-if you press the key ****?***
+if you press the key ****?****
 
 ```
 Syntax   : portty.exe <board-name> <com-port>
@@ -82,9 +82,9 @@ Free Pins: pin 4 to 19
 Press Enter key to continue...
 ```
 and pressing
-****s**** will give you the complete board values
-****t**** temperature from the dht sensor
-****h**** humidity from the dht sensor
+- ****s**** will give you the complete board values
+- ****t**** temperature from the dht sensor
+- ****h**** humidity from the dht sensor
 
 **Note**
 - pin 2 is reserved for DHT signal pin
