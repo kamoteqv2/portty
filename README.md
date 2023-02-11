@@ -8,6 +8,35 @@ To use Portty.exe, simply flash your Arduino Uno with the included hex file. The
 
 Starting the connection between Portty.exe and the Arduino board is quite straightforward. All you need to do is run the following command line in your terminal:
 
+
+<p align="center">
+  <img src="https://github.com/krakenjriot/portty/blob/main/images/portty.png">
+</p>
+
+Sample Setup
+============
+
+
+
+| BOARD TYPE | BOAD NAME | COM # | 
+| --------------- | --------------- | --------------- | 
+| UNO     | MYBOARD | COM10 | 
+
+| COMPONENT  |  LED + | LED - |
+| --------------- | --------------- |  --------------- | 
+| LED     | 13 | GND |
+
+
+| COMPONENT	|  DATA | VCC	|	GND |
+| --------------- | --------------- |  --------------- |   --------------- | 
+| DHT11     | 2 | 5V | GND |
+
+
+<img src="https://github.com/krakenjriot/portty/blob/main/images/led-sample.png" width="750" />  
+
+
+
+
 ```
 portty.exe <board-name> <com-port-number>
 ```
