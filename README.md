@@ -31,13 +31,13 @@ Sample Setup
 
 <img src="https://github.com/krakenjriot/portty/blob/main/images/led-sample.png" width="750" />  
 
-
+============
 Starting the connection between Portty.exe and the Arduino board is quite straightforward. All you need to do is run the following command line in your terminal:
-
+----------------------
 ```
 portty.exe <board-name> <com-port-number>
 ```
-
+----------------------
 Example:
 ```
 c:\portty>portty.exe myboard com11
@@ -56,6 +56,7 @@ Toggle Pin Number:
 ```
 
 To toggle the pin status of pin 4, and if the current status is 0, this will set inverse pin status to 1
+----------------------
 ```
 Status     : Connected
 Serial Port: com11
@@ -73,6 +74,7 @@ Press Enter key to continue...
 ```
 
 and if you enter the same pin number this will inverse the pin status again to 0
+----------------------
 
 ```
 Status     : Connected
@@ -91,8 +93,10 @@ Press Enter key to continue...
 ```
 
 if you press the key ****x**** this will exit the program
+----------------------
 
 otherwise if you press the key ****?**** for help/info below will display
+----------------------
 
 ```
 Syntax   : portty.exe <board-name> <com-port>
@@ -112,7 +116,7 @@ and pressing keys
 - ****s**** will give you the complete board values
 - ****t**** temperature from the dht sensor 
 - ****h**** humidity from the dht sensor
-
+----------------------
 **Note**
 - pin 2 is reserved for DHT signal pin
 - pin 3 optional, can be use to connect to a LED as power and activity indicator
