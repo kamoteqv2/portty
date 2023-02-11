@@ -78,12 +78,10 @@ pin 2    : DHTxx sensor
 pin 3    : LED Power Indicator
 Free Pins: pin 4 to 19
 
-Sensor not connected
-
 Press Enter key to continue...
 ```
 
 **note**
-pin 2 is reserved for DHT signal pin
-pin 3 optional, can be use to connect to a LED as power and activity indicator
-and pin 4 to 19 are available for toggling or switching 
+- pin 2 is reserved for DHT signal pin
+- pin 3 optional, can be use to connect to a LED as power and activity indicator
+- and pin 4 to 19 are available for toggling or switching 
