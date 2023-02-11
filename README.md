@@ -4,7 +4,7 @@
 
 Not only that, but Portty.exe can also be used to test your Arduino board or control external electrical devices using appropriate switching relays. By connecting the relays to the output pins of the Arduino board, you can use Portty.exe to change the state of the relays and thus control the connected devices. This makes ****Portty.exe**** a versatile tool for controlling a wide range of devices in various projects, whether for testing purposes or for real-world applications.
 
-To use Portty.exe, simply flash your Arduino Uno with the included hex file. There are three hex files available for different DHT models, and you can use the xloader utility to upload the Portty hex to the board.
+To use ****Portty.exe****, simply flash your Arduino Uno with the included hex file. There are three hex files available for different DHT models, and you can use the xloader utility to upload the Portty hex to the board.
 
 <p align="center">
   <img src="portty.png">
