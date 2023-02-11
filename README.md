@@ -6,9 +6,6 @@ Not only that, but Portty.exe can also be used to test your Arduino board or con
 
 To use Portty.exe, simply flash your Arduino Uno with the included hex file. There are three hex files available for different DHT models, and you can use the xloader utility to upload the Portty hex to the board.
 
-Starting the connection between Portty.exe and the Arduino board is quite straightforward. All you need to do is run the following command line in your terminal:
-
-
 <p align="center">
   <img src="https://github.com/krakenjriot/portty/blob/main/images/portty.png">
 </p>
@@ -20,7 +17,7 @@ Sample Setup
 
 | BOARD TYPE | BOAD NAME | COM # | 
 | --------------- | --------------- | --------------- | 
-| UNO     | MYBOARD | COM10 | 
+| UNO     | myboard | com11 | 
 
 | COMPONENT  |  LED + | LED - |
 | --------------- | --------------- |  --------------- | 
@@ -35,7 +32,7 @@ Sample Setup
 <img src="https://github.com/krakenjriot/portty/blob/main/images/led-sample.png" width="750" />  
 
 
-
+Starting the connection between Portty.exe and the Arduino board is quite straightforward. All you need to do is run the following command line in your terminal:
 
 ```
 portty.exe <board-name> <com-port-number>
