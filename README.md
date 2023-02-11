@@ -7,7 +7,7 @@ Not only that, but Portty.exe can also be used to test your Arduino board or con
 To use Portty.exe, simply flash your Arduino Uno with the included hex file. There are three hex files available for different DHT models, and you can use the xloader utility to upload the Portty hex to the board.
 
 <p align="center">
-  <img src="https://github.com/krakenjriot/portty/blob/main/images/portty.png">
+  <img src="portty.png">
 </p>
 
 Sample Setup
