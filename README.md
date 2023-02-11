@@ -11,3 +11,22 @@ Starting the connection between Portty.exe and the Arduino board is quite straig
 ```
 portty.exe <board-name> <com-port-number>
 ```
+
+Example:
+```
+c:\portty>portty.exe myboard com11
+```
+
+```
+Status     : Connected
+Serial Port: com11
+Baud Rate  : 9600
+Board Alias: myboard
+
+Help       : ?
+Exit       : x
+
+Toggle Pin Number:
+```
+
+
