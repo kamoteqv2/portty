@@ -55,7 +55,7 @@ Exit       : x
 Toggle Pin Number:
 ```
 
-To toggle the pin status of pin 4, and if the current status is 0, this will set inverse pin status to 1
+To toggle the pin status of pin 13, and if the current status is 0, this will set inverse pin status to 1
 ----------------------
 ```
 Status     : Connected
@@ -66,7 +66,7 @@ Board Alias: myboard
 Help       : ?
 Exit       : x
 
-Toggle Pin Number: 4
+Toggle Pin Number: 13
 
 pin state change to 1
 
@@ -85,7 +85,7 @@ Board Alias: myboard
 Help       : ?
 Exit       : x
 
-Toggle Pin Number: 4
+Toggle Pin Number: 13
 
 pin state change to 0
 
