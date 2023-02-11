@@ -29,7 +29,7 @@ Exit       : x
 Toggle Pin Number:
 ```
 
-To toggle the pin status of pin 4, if the current status is 0, this will set that status to 1
+To toggle the pin status of pin 4, and if the current status is 0, this will set inverse pin status to 1
 ```
 Status     : Connected
 Serial Port: com11
@@ -46,8 +46,7 @@ pin state change to 1
 Press Enter key to continue...
 ```
 
-
-if you enter the same pin again, this will inverse the pin status.
+and if you enter the same pin number this will inverse the pin status again to 0
 
 ```
 Status     : Connected
