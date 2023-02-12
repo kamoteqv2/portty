@@ -29,7 +29,10 @@ Sample Setup
 | DHT11     | 2 | 5V | GND |
 
 
-<img src="setup.png" width="750" />  
+
+<p align="center">
+  <img src="setup.png">
+</p>
 
 ----------------------
 Starting the connection between Portty.exe and the Arduino board is quite straightforward. All you need to do is run the following command line in your terminal:
