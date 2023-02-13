@@ -38,7 +38,7 @@ Sample Setup
 Starting the connection between Portty.exe and the Arduino board is quite straightforward. All you need to do is run the following command line in your terminal:
 ----------------------
 ```
-portty.exe <board-name> <com-port-number>
+portty.exe <board-name> <com-port>
 ```
 ----------------------
 Example:
